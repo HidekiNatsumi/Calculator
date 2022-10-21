@@ -8,7 +8,7 @@ Functionalities
    <li>Addition</li>
    <li>Division</li>
    <li>Subtraction</li>
-   <li>Clearing the board</li>
+   <li>Clearing the values</li>
 </ul>
 
 Description
