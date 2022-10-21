@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(89, 253, 253);
+}
+button {
+  text-align: center;
+  color: black;
+  background-color: white;
+  width: 70px;
+  height: 70px;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 1px;
+  box-shadow: 1px 1px 1px 1px rgb(30, 110, 84);
+}
+button:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+.div-main {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0.5px solid black;
+  width: 350px;
+  background-color: aquamarine;
+  padding-bottom: 25px;
+  box-shadow: 3px 5px 5px 5px grey;
+  border-radius: 15px;
+}
+a {
+  font-size: 40px;
+}
+h1 {
+  text-align: center;
+  color: lightpink;
+  font-size: 50px;
+  -webkit-text-stroke: 1px black;
+}
+.display-div {
+  text-align: right;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 50px;
+  background-color: beige;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+.footerc {
+  margin-top: 170px;
+  background-color: aquamarine;
+  background-color: white;
+  padding: 2px;
+  border-radius: 10px;
+  box-shadow: 3px 5px 5px 3px rgb(44, 42, 42);
+}
+.list1 {
+  list-style: none;
+  padding: 1px;
+  padding-inline: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.gh:hover {
+  color: black;
+  background-color: darkgrey;
+}
+.gh:active {
+  color: white;
+  background-color: white;
+}
+.gh {
+  height: 35px;
+  width: 35px;
+  border-radius: 30px;
+  margin-right: 10px;
+  margin-left: auto;
+}
+.github {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  text-align: justify;
+  margin-left: 10px;
+}
